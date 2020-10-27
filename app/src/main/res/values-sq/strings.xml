@@ -10,6 +10,7 @@
     <string name="version_head">"Version i kernel: "</string>
     <string name="type_head">"Lloji i ndërtimit: "</string>
     <string name="date_head">"Data e ndërtimit: "</string>
+    <string name="unknown">I panjour</string>
     <string name="status_head">"Statusi: "</string>
     <string name="last_head">"Kontrolli i fundit: "</string>
     <string name="channel_head">"Përditëso kanalin: "</string>
