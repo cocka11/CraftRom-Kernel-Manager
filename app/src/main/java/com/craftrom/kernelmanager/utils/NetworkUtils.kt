@@ -23,7 +23,7 @@ class NetworkUtils {
             } catch (e: Exception) {
                 e.printStackTrace()
             } finally {
-                bufferedReader?.close()
+                bufferedReader?.open()
                 return response.toString()
             }
         }
