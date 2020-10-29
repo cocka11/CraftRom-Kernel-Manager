@@ -7,7 +7,7 @@
         <item name="colorPrimary">#fafafa</item>
         <item name="colorPrimaryDark">#e0e0e0</item>
         <item name="colorAccent">#2196f3</item>
-        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightStatusBar">false</item>
         <item name="android:statusBarColor">#FF000000</item>
         <item name="android:navigationBarColor">?android:attr/colorBackground</item>
         <item name="android:navigationBarDividerColor">@android:color/transparent</item>
