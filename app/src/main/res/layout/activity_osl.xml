@@ -24,7 +24,8 @@
                 android:textStyle="bold"
                 android:text="libsu"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:textColor="#FF0F00"/>
 
             <TextView
                 android:textStyle="bold|italic"
@@ -54,7 +55,8 @@
                 android:text="RootUtils/Tools:"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:textColor="#FF0F00"/>
 
             <TextView
                 android:textStyle="bold|italic"
@@ -84,7 +86,8 @@
                 android:text="Icons"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:textColor="#FF0F00"/>
 
             <TextView
                 android:textStyle="bold|italic"
@@ -114,7 +117,8 @@
                 android:text="Google Material Components"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:textColor="#FF0F00"/>
 
             <TextView
                 android:textStyle="bold|italic"
@@ -144,7 +148,8 @@
                 android:text=" Android Extension Library"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:textColor="#FF0F00"/>
 
             <TextView
                 android:textStyle="bold|italic"
