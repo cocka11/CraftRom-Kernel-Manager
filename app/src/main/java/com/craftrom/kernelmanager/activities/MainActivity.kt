@@ -109,3 +109,9 @@ class MainActivity : AppCompatActivity() {
     }
 
 }
+** Called when the new exit button is clicked. */
+   public void nav_exit(View view)
+		{
+
+        finish();
+	}
