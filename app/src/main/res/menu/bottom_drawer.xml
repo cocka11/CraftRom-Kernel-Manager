@@ -27,7 +27,12 @@
             android:icon="@drawable/ic_nav_about"
             android:title="@string/title_about"
             app:showAsAction="never"/>
-
+           
+            <item
+            android:icon="@drawable/ic_nav_exit"
+            android:title="@string/title_exit"
+            android:onClick="nav_exit"
+            app:showAsAction="never" />
     </group>
 
 </menu>
