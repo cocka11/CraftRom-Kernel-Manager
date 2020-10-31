@@ -18,7 +18,7 @@ android {
     defaultConfig {
         applicationId "com.craftrom.kernelmanager"
         minSdkVersion 28
-        targetSdkVersion 29
+        targetSdkVersion 30
         versionCode 1
         versionName "R.1.6.20201026"
         multiDexEnabled true
